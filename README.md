@@ -11,7 +11,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="https://github.com/callmead/flixster/blob/master/Flixster.gif" width=250><br>
+<img src="" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
